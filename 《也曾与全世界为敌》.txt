@@ -1,22 +1,12 @@
-《也曾与全世界为敌》来自: https://www.luegeng.com/book89653/
+《也曾与全世界为敌》
 
 第1章
-
-.show-app2.apple{display: none;} .show-app2.apple .show-app2-content{width: 100%;} .show-app2.apple img.fenxiang{margin: 0 3px;border-radius: 0;width: 14px;height: 18px;vertical-align: top;}
-if(("standalone" in window.navigator) && window.navigator.standalone){ document.writeln("<style>.show-app2{display: none;}</style>"); } else if(!!navigator.userAgent.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/)){ document.writeln("<style>.show-app2{display: none;}.show-app2.apple{display: block !important;}</style>"); }
-
-
-
-请点击，然后点击“”
- 最快更新也曾与全世界为敌最新章节！
 
 26个真实故事改编。
 
 你总会在其中，找到自己的影子，我希望能给你力量，让你找到前进的方向。
 
 第2章 序：I am here waiting for you, from A to Z
-
-最快更新也曾与全世界为敌最新章节！
 
 写这本书的初衷，就如我在专栏里说的，在我十几岁的时候，我自卑、孤独、倔强、敏感、自尊心奇强，总是觉得彷徨和不安，觉得不被理解、不被爱、不被世界所接纳，在深夜里痛哭。那时候，多么渴望有人能抱抱我，告诉我，一切都会好起来的，我不是一个人，不是只有我曾那样痛苦。
 
