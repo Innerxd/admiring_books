@@ -41,7 +41,4 @@
 [《她的小梨涡》.txt](https://github.com/LIgaoxD/My-favorite-collection-of-novels/blob/main/《她的小梨涡》.txt)
 
 
-
-
-
-以上书籍为网上所得，仅供阅读学习，若有侵权，请联系，会速删☺
+<u>*以上书籍为网上所得，仅供阅读学习，若有侵权，请联系，会速删📌*</u>
